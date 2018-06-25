@@ -1,0 +1,14 @@
+.header {
+    background-color: #45b27f;
+}
+.contactList {
+    height: 80vh;
+    overflow-y: scroll;
+}
+
+.messageList {
+    height: 70vh;
+    overflow-y: scroll;
+    background-image: url("../img/bg-message.jpg");
+}
+
